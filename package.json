@@ -1,0 +1,9 @@
+{
+    "name": "node-handlebars-compiler",
+    "version": "0.0.0",
+    "dependencies": {
+        "watch": "0.6.0",
+        "handlebars": "1.0.10",
+        "optimist": "0.3.5"
+    }
+}
